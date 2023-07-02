@@ -7,3 +7,5 @@ let concesionaria = {
     }) || null;
   }
 };
+
+console
